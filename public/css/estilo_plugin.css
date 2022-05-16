@@ -1,0 +1,40 @@
+.materialize-iso .pagination li.disabled a i{
+
+        color: #444;
+
+}
+
+.materialize-iso .pagination li a i{
+
+        color: #999;
+
+}
+
+.materialize-iso .pagination li.active{
+
+        background-color: rgba(242,242,242,.5);
+
+}
+
+.materialize-iso li.collection-item {
+    background-color: black!important;
+    color: white;
+}
+
+.materialize-iso div[id^=modal] {
+    background-color:black!important;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	height: 70%;
+	border-radius: 3px;
+}
+
+.material-icons.secondary-content.disciplina-PPG {
+	position:absolute;
+	right:0.5em;
+	margin-top:-1.2em;
+}
+
+
